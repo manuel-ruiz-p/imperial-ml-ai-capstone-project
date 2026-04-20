@@ -1,0 +1,169 @@
+========================================================================================================================
+                                           FUNCTION SCOPE & COVERAGE ANALYSIS                                           
+========================================================================================================================
+
+📍 Function 1 (2D)
+   Initial Data Samples: 10
+   Output Range: [-3.606063e-03, 7.710875e-16]
+   Output Mean: -3.606063e-04 ± 1.081819e-03
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.083, 0.884] (coverage: 80.1%)
+             Queries [0.050, 0.755]
+      Dim 2: Initial [0.079, 0.880] (coverage: 80.1%)
+             Queries [0.050, 0.750]
+
+   Queries Trajectory:
+      Week 1: [0.25 0.75] → 2.606586e-96
+      Week 2: [0.05 0.05] → 7.570914e-193
+      Week 3: [0.754891 0.704403] → -5.384584e-16
+
+📍 Function 2 (2D)
+   Initial Data Samples: 10
+   Output Range: [-6.562362e-02, 6.112052e-01]
+   Output Mean: 2.306738e-01 ± 2.253645e-01
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.143, 0.878] (coverage: 73.5%)
+             Queries [0.500, 0.750]
+      Dim 2: Initial [0.029, 0.927] (coverage: 89.8%)
+             Queries [0.250, 0.530]
+
+   Queries Trajectory:
+      Week 1: [0.75 0.25] → 3.691788e-01
+      Week 2: [0.5 0.5] → 8.473574e-01
+      Week 3: [0.686831 0.530211] → 4.074279e-01
+
+📍 Function 3 (3D)
+   Initial Data Samples: 15
+   Output Range: [-3.989255e-01, -3.483531e-02]
+   Output Mean: -1.071670e-01 ± 8.421399e-02
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.047, 0.966] (coverage: 91.9%)
+             Queries [0.040, 0.350]
+      Dim 2: Initial [0.220, 0.941] (coverage: 72.1%)
+             Queries [0.302, 0.667]
+      Dim 3: Initial [0.066, 0.991] (coverage: 92.5%)
+             Queries [0.315, 0.500]
+
+   Queries Trajectory:
+      Week 1: [0.333333 0.666667 0.5     ] → -1.025169e-02
+      Week 2: [0.35 0.65 0.5 ] → -1.045016e-02
+      Week 3: [0.039713 0.302029 0.315311] → -7.882847e-02
+
+📍 Function 4 (4D)
+   Initial Data Samples: 30
+   Output Range: [-3.262566e+01, -4.025542e+00]
+   Output Mean: -1.723859e+01 ± 7.017985e+00
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.038, 0.986] (coverage: 94.8%)
+             Queries [0.200, 0.800]
+      Dim 2: Initial [0.006, 0.920] (coverage: 91.3%)
+             Queries [0.200, 0.983]
+      Dim 3: Initial [0.042, 0.939] (coverage: 89.7%)
+             Queries [0.400, 0.708]
+      Dim 4: Initial [0.082, 0.999] (coverage: 91.8%)
+             Queries [0.028, 0.600]
+
+   Queries Trajectory:
+      Week 1: [0.2 0.8 0.4 0.6] → -1.307213e+01
+      Week 2: [0.8 0.2 0.6 0.4] → -1.307213e+01
+      Week 3: [0.728602 0.982928 0.708406 0.027707] → -2.864804e+01
+
+📍 Function 5 (4D)
+   Initial Data Samples: 20
+   Output Range: [1.129398e-01, 1.088860e+03]
+   Output Mean: 1.512719e+02 ± 2.455760e+02
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.120, 0.836] (coverage: 71.7%)
+             Queries [0.015, 0.720]
+      Dim 2: Initial [0.038, 0.863] (coverage: 82.4%)
+             Queries [0.280, 0.642]
+      Dim 3: Initial [0.089, 0.879] (coverage: 79.1%)
+             Queries [0.349, 0.600]
+      Dim 4: Initial [0.073, 0.958] (coverage: 88.5%)
+             Queries [0.200, 0.493]
+
+   Queries Trajectory:
+      Week 1: [0.7 0.3 0.6 0.2] → 5.273302e+00
+      Week 2: [0.72 0.28 0.58 0.22] → 4.049267e+00
+      Week 3: [0.014688 0.641578 0.349456 0.493352] → 3.498323e+01
+
+📍 Function 6 (5D)
+   Initial Data Samples: 20
+   Output Range: [-2.571170e+00, -7.142649e-01]
+   Output Mean: -1.495390e+00 ± 4.489996e-01
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.022, 0.958] (coverage: 93.6%)
+             Queries [0.200, 0.800]
+      Dim 2: Initial [0.114, 0.932] (coverage: 81.7%)
+             Queries [0.109, 0.600]
+      Dim 3: Initial [0.017, 0.979] (coverage: 96.2%)
+             Queries [0.034, 0.600]
+      Dim 4: Initial [0.046, 0.962] (coverage: 91.6%)
+             Queries [0.200, 0.841]
+      Dim 5: Initial [0.005, 0.893] (coverage: 88.8%)
+             Queries [0.500, 0.517]
+
+   Queries Trajectory:
+      Week 1: [0.2 0.4 0.6 0.8 0.5] → -6.995640e-01
+      Week 2: [0.8 0.6 0.4 0.2 0.5] → -1.911988e+00
+      Week 3: [0.575333 0.108777 0.034359 0.840559 0.517247] → -1.552442e+00
+
+📍 Function 7 (6D)
+   Initial Data Samples: 30
+   Output Range: [2.701465e-03, 1.364968e+00]
+   Output Mean: 2.196066e-01 ± 3.021294e-01
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.058, 0.942] (coverage: 88.5%)
+             Queries [0.103, 0.250]
+      Dim 2: Initial [0.012, 0.925] (coverage: 91.3%)
+             Queries [0.202, 0.400]
+      Dim 3: Initial [0.004, 0.925] (coverage: 92.1%)
+             Queries [0.500, 0.789]
+      Dim 4: Initial [0.074, 0.961] (coverage: 88.7%)
+             Queries [0.156, 0.750]
+      Dim 5: Initial [0.015, 0.999] (coverage: 98.4%)
+             Queries [0.850, 0.990]
+      Dim 6: Initial [0.051, 0.951] (coverage: 90.0%)
+             Queries [0.450, 0.834]
+
+   Queries Trajectory:
+      Week 1: [0.15 0.35 0.55 0.75 0.95 0.45] → 1.195917e-01
+      Week 2: [0.25 0.4  0.5  0.7  0.85 0.5 ] → 1.413000e-01
+      Week 3: [0.102635 0.201553 0.788679 0.155646 0.990262 0.833759] → 2.196902e-01
+
+📍 Function 8 (8D)
+   Initial Data Samples: 40
+   Output Range: [5.592193e+00, 9.598482e+00]
+   Output Mean: 7.815274e+00 ± 9.469035e-01
+
+   Input Space Coverage (per dimension):
+      Dim 1: Initial [0.009, 0.986] (coverage: 97.7%)
+             Queries [0.019, 0.150]
+      Dim 2: Initial [0.003, 0.974] (coverage: 97.1%)
+             Queries [0.250, 0.623]
+      Dim 3: Initial [0.023, 0.999] (coverage: 97.6%)
+             Queries [0.375, 0.429]
+      Dim 4: Initial [0.009, 0.903] (coverage: 89.4%)
+             Queries [0.225, 0.500]
+      Dim 5: Initial [0.010, 0.987] (coverage: 97.7%)
+             Queries [0.600, 0.701]
+      Dim 6: Initial [0.022, 0.990] (coverage: 96.8%)
+             Queries [0.385, 0.750]
+      Dim 7: Initial [0.036, 0.993] (coverage: 95.7%)
+             Queries [0.248, 0.875]
+      Dim 8: Initial [0.042, 0.989] (coverage: 94.7%)
+             Queries [0.173, 0.450]
+
+   Queries Trajectory:
+      Week 1: [0.125  0.25   0.375  0.5    0.625  0.75   0.875  0.4375] → 8.694472e+00
+      Week 2: [0.15 0.3  0.4  0.48 0.6  0.7  0.85 0.45] → 8.737650e+00
+      Week 3: [0.018659 0.622726 0.428889 0.224671 0.701438 0.385308 0.247735 0.172798] → 9.448899e+00
+
+========================================================================================================================
